@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>HANUMESH @ JAY Releases Nexus Repository</name>
-	      <url>http://13.126.232.167:8081/repository/maven2-relaese2-nexus2/</url>
+	      <url>http://3.109.56.97:8081/repository/maven2-relaese2-nexus2/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>HANUMESH @ JAY Snapshot Nexus Repository </name>
-	      <url>http://13.126.232.167:8081/repository/maven2-snapshot2-nexus2/</url>
+	      <url>http://3.109.56.97:8081/repository/maven2-snapshot2-nexus2/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
