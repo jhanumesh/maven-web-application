@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>HANU Releases Nexus Repository</name>
-	      <url>http://3.109.56.97:8081/repository/project_release/</url>
+	      <url>http://13.232.111.77:8081/repository/maven2-relaese2-nexus2/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>HANU  Snapshot Nexus Repository </name>
-	      <url>http://3.109.56.97:8081/repository/project_snapshot/</url>
+	      <url>http://13.232.111.77:8081/repository/maven2-snapshot2-nexus2/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
