@@ -17,8 +17,8 @@ spec:
         app: mavenwebapp
     spec:
       containers:
-        - name: mavenwebappcontainer
-          image: amorgs/ganesh:1
+        - name: mavenwebappdeployment
+          image: jhanumesh/pandu:7
           ports:
             - containerPort: 8080
           resources:
